@@ -1,0 +1,27 @@
+fieldset{
+    
+    width: 500px;
+}
+
+.btn {
+    color: blue; font-size: 30px;
+     background-color: cornflowerblue;
+     margin-left: 75px;
+}
+.set1 button {
+    grid-area: button;
+    cursor: pointer;
+}
+.wrap{
+    text-align: center;
+    background-color: aqua;
+}
+
+#localStorag{
+    background-color: indianred;
+    text-align: center;
+    height: 100%;
+}
+.cop{
+    color: blue;
+}
